@@ -1,0 +1,29 @@
+body {
+    background: grey;
+    font-family: sans-serif;
+}
+div{
+    margin: 15px 100px;
+    background-color: white;
+    padding: 20px;
+    border-radius: 7px;
+}
+button{
+    border: none;
+    padding: 10px 15px;
+    border-radius: 20px;
+}
+button:hover{
+    cursor: pointer;
+}
+#btn1{
+    background-color: rgb(8, 136, 153);
+    color: white;
+}
+#btn2{
+    background-color: rgb(255, 166, 0);
+}
+#btn3{
+    background-color: rgb(173, 0, 173);
+    color: white;
+}
