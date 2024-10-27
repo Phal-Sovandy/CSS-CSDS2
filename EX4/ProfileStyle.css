@@ -1,13 +1,3 @@
-*{
-    font-family: 'Roboto Condensed', Arial, Helvetica, sans-serif;
-    text-align: center;
-    box-sizing: border-box;
-}
-body{
-    background-color: #FFF8E8;
-}
-
-
 #profile-container{
     margin: auto;
     width: 500px;
@@ -50,12 +40,6 @@ body{
 }
 
 
-
-#profile-picture{
-    border-radius: 50%;
-    width: 300px;
-    border: 10px solid #D1E9F6;
-}
 #name{
     font-size: 2.5rem;
     font-weight: 700;
